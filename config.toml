@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://muliangchun.top"
+baseURL = "https://muliangchun.github.io"
 title = "木良醇的官方网站"
 theme = "somrat"
 # disable language
