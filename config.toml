@@ -4,6 +4,7 @@ title = "木良醇的官方网站"
 theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
+publishDir = "muliangchun.github.io"
 
 ############################# Plugins ##############################
 
