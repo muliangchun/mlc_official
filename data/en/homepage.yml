@@ -35,7 +35,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's 木良醇, I am a designer."
+  content : "It's 木良醇, I am a designer, painter, teacher, dancer and so on."
   # button
   button:
     enable : false
@@ -181,7 +181,7 @@ testimonial:
 
 ######################### funfacts #############################3
 funfacts:
-  enable : true
+  enable : false
   funfacts_list:
     # funfacts item loop
     - name : "HANDS TO WORK"
